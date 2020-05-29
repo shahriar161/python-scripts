@@ -38,3 +38,6 @@ print(prayer_time_lst)
 
 for i in range(len(prayer_name_lst)):
     print(prayer_name_lst[i],prayer_time_lst[i])
+
+
+#new commit
